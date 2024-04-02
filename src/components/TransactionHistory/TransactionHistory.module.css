@@ -1,0 +1,14 @@
+.table {
+  margin: 0 auto;
+  width: 800px;
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
+
+.head,
+.slot {
+  background-color: #383636;
+  color: #fff;
+  border: 2px solid #000;
+  border-collapse: collapse;
+}

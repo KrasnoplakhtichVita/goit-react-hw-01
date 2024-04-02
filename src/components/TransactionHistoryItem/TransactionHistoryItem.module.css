@@ -1,0 +1,18 @@
+.item {
+  text-align: center;
+  margin-left: 50%;
+  height: 40px;
+  background-color: #fff;
+  color: #000;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+.item:nth-child(2n) {
+  background-color: #ecf1f4;
+}
+
+.slot {
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
